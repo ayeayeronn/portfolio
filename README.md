@@ -8,5 +8,5 @@ This portfolio contains a compilation of sample assignments during my journey of
 
 To conclude Coursera's 'SQL for Data Science' course offered by UC Davis, this capstone project was a way to integrate the skills I've learned while solving a real world problem at the same time. My task was to analyze Yelp's dataset based off of the entity diagram. The goal was to find inferences and anomalies such as relationships between business location and overall rating. Some of the knowledge demonstrated includes: Filtering, aggregate functions, joins, and more.<br>
 <br>
-I have further reinforced my learning by completing SQL execises, courtesy of w3resource.com
+I have further reinforced my learning by completing SQL exercises, courtesy of w3resource.com
 
