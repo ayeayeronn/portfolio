@@ -1,4 +1,0 @@
-select jh.employee_id, j.job_title, (jh.end_date - jh.start_date) AS number
-FROM jobs j 
-JOIN job_history jh ON j.job_id = jh.job_id
-WHERE jh.department_id = 80
